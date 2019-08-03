@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "nome_database": "ORCLPDB2",
+        "username": "adwc_repl",
+        "password": "welcome1",
+        "connect_string": "xxx.xxx.xxx.xxx:1521/orclpdb2",
+        "versione": "v18"
+    }
+]
